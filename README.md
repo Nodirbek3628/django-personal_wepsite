@@ -1,1 +1,1 @@
-# django-personal_wepsite
+# django-todo
